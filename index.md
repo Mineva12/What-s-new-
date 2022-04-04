@@ -1,4 +1,3 @@
-background-image: url('https://www.htmlcsscolor.com/preview/gallery/57595D.png');
 ># **Ultimate Overhaul News**
 >
 >### Mod released!
